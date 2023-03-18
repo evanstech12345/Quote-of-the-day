@@ -1,0 +1,10 @@
+{
+  "name": "Rate an Article",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "extension to rate then difficulty of an article in an instance",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html",
+  }
+}
